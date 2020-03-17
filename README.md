@@ -1,6 +1,6 @@
 <h1 align="center">🚀 web-extension-starter</h1>
 <p align="center">Web Extension starter to build "Write Once Run on Any Browser" extension</p>
-<h3 align="center">🙋‍♂️ Maintained by <a href="https://github.com/BasixKOR">@BasixKOR</a></h3>
+<h3 align="center">🙋‍♂️ Maintained by <a href="https://github.com/cheongan">@cheongan</a></h3>
 
 
 ## Features
